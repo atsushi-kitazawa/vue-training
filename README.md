@@ -22,3 +22,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## TODO
+ - [ ] https://dev.to/rjzauner/learn-the-basics-of-vue-js-by-building-a-simple-crud-app-a-tutorial-1ipi
